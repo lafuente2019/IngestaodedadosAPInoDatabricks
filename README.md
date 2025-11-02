@@ -209,4 +209,4 @@ spark.sql("SELECT * FROM workspace.bronze.cotacoes_yfinance LIMIT 10").show(trun
 **Valter Lafuente Junior**  
 Engenheiro de Dados — Projeto Databricks / GCP  
 📧 *valterlafuentejunior@gmail.com*  
-🌐 GitHub: [github.com/valterlafuente](https://github.com/valterlafuente)
+🌐 GitHub: [github.com/lafuente2019](https://github.com/lafuente2019)
